@@ -1,0 +1,5 @@
+Phishing Awareness
+Always verify email senders before clicking any links.
+Never share OTPs, passwords, or bank details.
+Check website URLs carefully before logging in.
+Report suspicious emails and messages immediately.
